@@ -149,7 +149,7 @@ Ao fazer o fork deste projeto, o programador tem a liberdade de personalizá-lo 
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-* [PROJETO CRIADO PARA O CURSO DE LARAVEL](https://github.com/VILHALVA/CURSO-DE-LARAVEL)
+- [PROJETO CRIADO PARA O CURSO DE LARAVEL](https://github.com/VILHALVA/CURSO-DE-LARAVEL)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 
 
