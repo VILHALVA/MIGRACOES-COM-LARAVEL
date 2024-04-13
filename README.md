@@ -1,18 +1,18 @@
 # MIGRACOES COM LARAVEL
 👨‍🏫PROJETO CRIADO PARA O CURSO DE LARAVEL.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br>
 
 <details>
 <summary>CLIQUE AQUI PARA VER MAIS FOTOS!</summary>
-   <img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br>
-   <img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br>
-   <img src="./IMAGENS/FOTO_07.png" align="center" width="500"> <br>
-   <img src="./IMAGENS/FOTO_08.png" align="center" width="500"> <br>
-   <img src="./IMAGENS/FOTO_09.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_7.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_8.png" align="center" width="500"> <br>
+   <img src="./IMAGENS/FOTO_9.png" align="center" width="500"> <br>
    <img src="./IMAGENS/FOTO_10.png" align="center" width="500"> <br>
    <img src="./IMAGENS/FOTO_11.png" align="center" width="500"> <br>
 </details>
